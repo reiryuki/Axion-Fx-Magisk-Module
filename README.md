@@ -22,9 +22,9 @@ https://t.me/ryukimodsscreenshots/149
 ## Download Link and Changelog
 
 v0.1 AIDL Audio Service https://github.com/reiryuki/Axion-Fx-Magisk-Module
-- Initial release
 
 v0.1 HIDL Audio Service https://github.com/reiryuki/Axion-Fx-Magisk-Module
+
 - Initial release
 
 ## Download Tutorial
