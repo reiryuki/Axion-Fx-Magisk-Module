@@ -19,11 +19,11 @@ https://t.me/ryukimodsscreenshots/149
 - Android 16 (SDK 36) and up
 - Magisk or Kitsune Mask or KernelSU or Apatch installed
 
-## Download Link and Changelog
+## Download Links and Changelog
 
-v0.1 AIDL Audio Service https://github.com/reiryuki/Axion-Fx-Magisk-Module
+v0.1 AIDL Audio Service https://move2link.co/82ea4f9
 
-v0.1 HIDL Audio Service https://github.com/reiryuki/Axion-Fx-Magisk-Module
+v0.1 HIDL Audio Service https://move2link.co/557b7a4
 
 - Initial release
 
